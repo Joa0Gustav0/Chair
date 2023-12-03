@@ -1,0 +1,29 @@
+footer{
+    transition: all .25s;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: flex-start;
+
+    width: 100%;
+    padding: 10px 30px;
+}
+footer.dark {
+    background-color: #202020;
+}
+
+footer > img {
+    width: 50px;
+    margin: auto;
+    margin-bottom: 10px;
+}
+
+.rightsText{
+    transition: all .25s;
+    color: black;
+    font-weight: 600;
+    font-size: .8em;
+}
+.rightsText.dark {
+    color: white;
+}

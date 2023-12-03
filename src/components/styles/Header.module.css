@@ -1,0 +1,57 @@
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu+Mono&display=swap');
+
+header {
+    transition: all .25s;
+    position: relative;
+
+    gap: 5px;
+    width: 100%;
+    padding: 20px;
+}
+header.dark {
+    background-color: #202020;
+}
+header img {
+    width: 50px;
+}
+header a {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    margin: auto;
+    font-size: 1em;
+    color: #1877f2;
+    width: fit-content;
+    text-decoration: none;
+    text-transform: uppercase;
+    font-family: 'Ubuntu Mono', sans-serif;
+}
+
+header > ion-icon {
+    transition: all .1s;
+    position: absolute;
+    right: 30px;
+    top: 50%;
+    transform: translateY(-50%);
+
+    width: 20px;
+    height: 20px;
+    padding: 5px;
+    color: black;
+    border-radius: 100%;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0);
+}
+header > ion-icon:hover {
+    cursor: pointer;
+    width: 22.5px;
+    height: 22.5px;
+    right: 29.5px;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, .1);
+}
+header > ion-icon:active {
+    right: 25;
+    width: 20px;
+    height: 20px;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0);
+}
