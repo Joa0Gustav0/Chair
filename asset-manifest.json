@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/Chair/static/css/main.eb2cf00e.css",
+    "main.css": "/Chair/static/css/main.d1494b9b.css",
     "main.js": "/Chair/static/js/main.39bfd05c.js",
     "static/media/chair-logo.png": "/Chair/static/media/chair-logo.7d66d7f2295e3011f817.png",
     "index.html": "/Chair/index.html",
-    "main.eb2cf00e.css.map": "/Chair/static/css/main.eb2cf00e.css.map",
+    "main.d1494b9b.css.map": "/Chair/static/css/main.d1494b9b.css.map",
     "main.39bfd05c.js.map": "/Chair/static/js/main.39bfd05c.js.map"
   },
   "entrypoints": [
-    "static/css/main.eb2cf00e.css",
+    "static/css/main.d1494b9b.css",
     "static/js/main.39bfd05c.js"
   ]
 }
