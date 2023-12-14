@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/Chair/static/css/main.d1494b9b.css",
-    "main.js": "/Chair/static/js/main.39bfd05c.js",
-    "static/media/chair-logo.png": "/Chair/static/media/chair-logo.7d66d7f2295e3011f817.png",
-    "index.html": "/Chair/index.html",
-    "main.d1494b9b.css.map": "/Chair/static/css/main.d1494b9b.css.map",
-    "main.39bfd05c.js.map": "/Chair/static/js/main.39bfd05c.js.map"
+    "main.css": "/chair-chart-creator-app/static/css/main.d1494b9b.css",
+    "main.js": "/chair-chart-creator-app/static/js/main.255cd83a.js",
+    "static/media/chair-logo.png": "/chair-chart-creator-app/static/media/chair-logo.7d66d7f2295e3011f817.png",
+    "index.html": "/chair-chart-creator-app/index.html",
+    "main.d1494b9b.css.map": "/chair-chart-creator-app/static/css/main.d1494b9b.css.map",
+    "main.255cd83a.js.map": "/chair-chart-creator-app/static/js/main.255cd83a.js.map"
   },
   "entrypoints": [
     "static/css/main.d1494b9b.css",
-    "static/js/main.39bfd05c.js"
+    "static/js/main.255cd83a.js"
   ]
 }
